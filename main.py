@@ -52,7 +52,6 @@ response = cognito_idp.initiate_auth(
 )
 
 id_token = response['AuthenticationResult']['IdToken']
-# print(f'Your ID Token is {id_token}')
 
 # Obtain temporary AWS credentials
 cognito_identity = boto3.client('cognito-identity', region_name=AWS_REGION)
