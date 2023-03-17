@@ -1,4 +1,4 @@
-# AWS Cognito and IoT MQTT Example
+# AWS Cognito and IoT MQTT Example 🥹
 
 This script demonstrates how to use AWS Cognito User Pools to authenticate a user, obtain temporary AWS credentials, and then interact with AWS IoT using MQTT messaging. The script uses the AWSIoTPythonSDK and boto3 libraries.
 

@@ -8,7 +8,7 @@ import time
 from AWSIoTPythonSDK.MQTTLib import AWSIoTMQTTShadowClient
 
 
-# Replace the following variables with your own values
+# Replace the following variables with your own values 🥹
 COGNITO_USER_POOL_ID = ''
 COGNITO_APP_CLIENT_ID = ''
 COGNITO_IDENTITY_POOL_ID = ''
